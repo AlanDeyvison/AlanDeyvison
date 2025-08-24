@@ -7,7 +7,6 @@ Me chamo Alan Deyvison, tenho 20 anos e sou natural do Rio Grande do Norte. Atua
 <p align="left">
 </p>
 
-<br/>
 
 ---
 
