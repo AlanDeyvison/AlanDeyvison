@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Alan Deyvison, tenho 20 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UFRN.
+Me chamo Alan Deyvison, tenho 21 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UFRN.
 
 <p align="left">
 </p>
